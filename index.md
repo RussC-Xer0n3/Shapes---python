@@ -1,3 +1,12 @@
+<nav class="w3-container w3-teal w3-center w3-margin-top">
+<br>
+  <a href="https://www.facebook.com/profile.php?id=100075972987666"><i class="fa fa-facebook-official w3-hover-opacity"></i></a>
+  <a href="https://www.instagram.com/russellclarke821"><i class="fa fa-instagram w3-hover-opacity"></i></a>
+  <a href="https://www.pinterest.co.uk/russellclarke821/"><i class="fa fa-pinterest-p w3-hover-opacity"></i></a>
+  <a href="https://twitter.com/Developing821"><i class="fa fa-twitter w3-hover-opacity"></i></a>
+  <a href="https://www.linkedin.com/in/russell-clarke-09a1a5238"></a><i class="fa fa-linkedin w3-hover-opacity"></i>
+<br>
+</nav>
 # Python shapes and spacecraft stuff
 ## Exploring shape functions and spacecraft stuff
 I wanted to begin writing and hopefully completing a collection of code for my portfolio and get some hands-on practice with python again. During the third lock-down whilst working, in my spare time over three days I decided to tackle writing the code and methods for three-dimensional shapes as they're a good challenge both mathematically, usecase generically and in revision of anything I could remember from my school days back in 1995-2000. I hope I have done the education system prooud. 
